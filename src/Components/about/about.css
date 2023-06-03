@@ -8,6 +8,9 @@
     width: 350px;
     border-radius: 1.5rem;
     justify-self: center;
+    height: 60vh;
+    width: 50vh;
+    object-fit:cover ;
 }
 
 .about__info {
@@ -52,7 +55,9 @@
     row-gap: 2.5rems;
   }
   .about__img {
-    width: 220px;
+    height: 60vh;
+    width: 50vh;
+    object-fit: cover;
   }
 
   .about__box {

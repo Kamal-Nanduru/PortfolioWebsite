@@ -106,14 +106,15 @@
     }
 
     .nav__toggle {
-        font-size: 1.1rem0;
+        font-size: 1.1rem;
         cursor: pointer;
     }
 
     .nav__icon,
     .nav__close,
     .nav__toggle {
-        display: none;
+        display: block;
+        font-size: 1.5rem;
     }
 }
 
