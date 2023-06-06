@@ -6,22 +6,22 @@ export const Data = [
     {
       id: 1,
       image: Image1,
-      title: "Jhon Doe",
+      title: "Sripath Roy Koganti",
       description:
-        "A really good job, all aspects of the project were followed step by step and with good results.",
+        "He was a student of mine and created numerous webpages for our NGO organisation. I highly recommend him for any position involving full-stack programming! ",
     },
     {
       id: 2,
       image: Image2,
-      title: "Harry Clinton",
+      title: "Bharath K Sunil",
       description:
-        "A really good job, all aspects of the project were followed step by step and with good results.",
+        "He was an intern web developer for our company, and during this time I have found him to be very skilled and committed. I wish him the best of luck in his future endeavours. ",
     },
     {
       id: 3,
       image: Image3,
-      title: "Sara Cill",
+      title: "Amaresh Deshpande",
       description:
-        "A really good job, all aspects of the project were followed step by step and with good results.",
+        "I wish him the best because he quickly picked up the Tolgee tool and translated our app into his native tongue. He is a quick learner and excited about new tools and technology.",
     },
   ];
