@@ -7,8 +7,8 @@
 .about__img {
     width: 350px;
     border-radius: 1.5rem;
-    justify-self: center;
-    height: 60vh;
+    /* justify-self: center; */
+    height: 75vh;
     width: 50vh;
     object-fit:cover ;
 }
